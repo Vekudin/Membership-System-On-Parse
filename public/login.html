@@ -1,0 +1,43 @@
+<html>
+<head>
+<script src="jsFiles/login.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://unpkg.com/parse/dist/parse.min.js"></script>
+
+<!-- HTTPS required. HTTP will give a 403 forbidden response -->
+<script src="https://sdk.accountkit.com/en_US/sdk.js"></script>
+
+<link rel="stylesheet" type="text/css" href="cssFiles/login.css">
+</head>
+<body>
+  <script>
+  window.fbAsyncInit = function() {
+    Parse.FacebookUtils.init({
+      appId            : '233786763926567',
+	  status		   : true,
+	  cookie		   : true,
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v3.0'
+    });
+  };
+	
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  </script> 
+
+  <h1>Safe Spot</h1>
+  <div class="login">
+	  <p>Username<input type="text" id="uNameIn" name="uNameIn" placeholder="Username please" autofocus></p><br>
+	  <p>Password<input type="password" id="passIn" name="passIn" placeholder="Password here"></p><br>
+	  <button type="button" id="loginBtn" value="Login">Login</button><br>
+	  <button type="button" id="loginFbBtn" onlogin="checkLoginState();" value="Login">Login with facebook</button><br>
+  </div>
+  <p id="ai"></p>
+</body>
+</html>

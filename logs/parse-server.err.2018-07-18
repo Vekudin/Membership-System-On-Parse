@@ -1,0 +1,434 @@
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:08.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:10.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:11.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:12.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:14.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:15.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:17.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:19.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:21.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:22.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:24.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:25.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:27.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:28.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:30.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:31.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:33.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:35.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:37.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:38.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:40.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:42.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:43.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:45.863Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:47.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:48.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:50.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:52.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:54.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:56.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:57.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:46:59.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:01.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:02.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:04.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:06.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:08.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:10.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:12.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:13.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:15.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:16.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:18.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:19.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:21.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:23.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:25.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:26.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:28.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:30.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:31.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:33.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:34.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:36.829Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:38.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:39.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:41.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:42.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:44.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:45.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:47.829Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:49.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:50.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:52.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:54.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:56.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:57.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:47:59.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:01.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:03.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:05.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:06.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:08.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:10.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:11.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:13.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:14.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:16.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:18.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:19.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:21.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:22.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:24.829Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:26.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:27.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:29.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:31.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:32.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:33.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:35.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:37.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:39.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:40.639Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:40.647Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:40.844Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:42.004Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T07:48:49.821Z"}
+{"error":{},"level":"error","message":"Error generating response. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:05.806Z"}
+{"level":"error","message":"Uncaught internal server error. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:05.808Z"}
+{"error":{},"level":"error","message":"Error generating response. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:05.932Z"}
+{"level":"error","message":"Uncaught internal server error. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:05.933Z"}
+{"error":{},"level":"error","message":"Error generating response. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:06.299Z"}
+{"level":"error","message":"Uncaught internal server error. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:06.300Z"}
+{"error":{},"level":"error","message":"Error generating response. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:06.675Z"}
+{"level":"error","message":"Uncaught internal server error. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:06.675Z"}
+{"error":{},"level":"error","message":"Error generating response. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:07.031Z"}
+{"level":"error","message":"Uncaught internal server error. ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) ReferenceError: qUser is not defined\n    at Parse.Cloud.beforeSave (I:\\zWebBased\\server\\cloud\\main.js:4:19)\n    at I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:447:26\n    at new Promise (<anonymous>)\n    at Object.maybeRunTrigger (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\triggers.js:426:10)\n    at Promise.resolve.then (I:\\zWebBased\\server\\node_modules\\parse-server\\lib\\RestWrite.js:181:21)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","timestamp":"2018-07-18T11:13:07.032Z"}
+{"className":"_User","triggerType":"beforeSave","error":{"code":141,"message":{"password":["Password can't be blank"]}},"level":"error","message":"beforeSave failed for _User for user undefined:\n  Input: {\"username\":\"dawe@ada.bg\",\"email\":\"dawe@ada.bg\",\"createdAt\":\"2018-07-17T15:59:32.385Z\",\"updatedAt\":\"2018-07-17T15:59:32.385Z\",\"ACL\":{\"jz4l1f29HS\":{\"read\":true,\"write\":true},\"role:Basic\":{\"read\":true}},\"objectId\":\"jz4l1f29HS\"}\n  Error: {\"code\":141,\"message\":{\"password\":[\"********\"]}}","timestamp":"2018-07-18T11:14:10.829Z"}
+{"error":{"code":141,"message":{"password":["Password can't be blank"]}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: { password: [ 'Password can\\'t be blank' ] } }","timestamp":"2018-07-18T11:14:10.833Z"}
+{"code":141,"message":"{ password: [ 'Password can\\'t be blank' ] }","level":"error","timestamp":"2018-07-18T11:14:10.834Z"}
+{"error":{"code":119,"message":"Permission denied for action find on class MainChat."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action find on class MainChat.' }","timestamp":"2018-07-18T11:17:06.045Z"}
+{"code":119,"message":"Permission denied for action find on class MainChat.","level":"error","timestamp":"2018-07-18T11:17:06.047Z"}
+{"error":{"code":119,"message":"Permission denied for action find on class MainChat."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action find on class MainChat.' }","timestamp":"2018-07-18T11:18:00.869Z"}
+{"code":119,"message":"Permission denied for action find on class MainChat.","level":"error","timestamp":"2018-07-18T11:18:00.871Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T11:20:55.966Z"}
+{"error":{"code":119,"message":"Permission denied for action find on class MainChat."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action find on class MainChat.' }","timestamp":"2018-07-18T11:21:11.226Z"}
+{"code":119,"message":"Permission denied for action find on class MainChat.","level":"error","timestamp":"2018-07-18T11:21:11.227Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T11:25:35.913Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T11:26:14.690Z"}
+{"error":{"code":119,"message":"Permission denied for action find on class MainChat."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action find on class MainChat.' }","timestamp":"2018-07-18T11:26:21.718Z"}
+{"code":119,"message":"Permission denied for action find on class MainChat.","level":"error","timestamp":"2018-07-18T11:26:21.719Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T11:27:19.803Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T11:27:20.044Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:33.811Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:34.807Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:36.805Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:38.403Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:38.415Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:38.821Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2018-07-18T12:54:39.231Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T13:31:25.922Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T13:31:25.923Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.828Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.830Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.835Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.837Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.841Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.842Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.845Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.846Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.929Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.930Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.932Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.933Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.938Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.939Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.945Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.946Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.948Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.949Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.954Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.955Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.958Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.959Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:10.960Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:10.962Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.753Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.754Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.755Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.756Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.767Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.767Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.769Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.770Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.775Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.776Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.777Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.777Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.778Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.779Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:23.780Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:23.782Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.645Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.646Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.648Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.649Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.657Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.658Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.662Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.663Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.666Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.667Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.668Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.669Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.671Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.671Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.674Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.674Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.788Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.789Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.794Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.795Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.803Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.803Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.806Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.806Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.809Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.810Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.810Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.811Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.814Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.815Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.818Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.819Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.942Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.944Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.944Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.945Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.949Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.950Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.955Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.955Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.958Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.959Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.964Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.966Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.967Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.968Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:29.971Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:29.971Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.106Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.107Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.110Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.110Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.116Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.117Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.121Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.122Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.125Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.126Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.126Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.127Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.129Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.130Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.134Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.135Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.275Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.279Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.285Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.286Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.290Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.291Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.294Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.295Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.297Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.299Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.301Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.302Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.305Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.305Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.310Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.311Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.316Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.317Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.427Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.428Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.432Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.433Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.438Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.439Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.441Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.442Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.443Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.444Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.448Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.448Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.452Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.453Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.454Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.455Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.455Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.456Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.458Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.459Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.608Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.609Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.611Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.612Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.615Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.616Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.618Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.619Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.623Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.624Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.627Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.627Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.633Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.634Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.639Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.639Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.641Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.642Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.644Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.645Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.774Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.775Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.777Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.778Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.783Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.783Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.787Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.788Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.792Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.792Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.796Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.798Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.799Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.800Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.806Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.807Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.808Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.808Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:30.809Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:30.810Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.694Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.696Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.698Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.699Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.706Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.707Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.709Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.710Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.714Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.715Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.716Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.716Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.717Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.718Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.725Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.726Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.728Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.728Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:04:31.729Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:04:31.730Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.879Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.881Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.882Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.883Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.892Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.893Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.896Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.897Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.900Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.901Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.903Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.903Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.904Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.906Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.913Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.914Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.921Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.922Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:05:19.923Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:05:19.924Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.897Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.899Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.900Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.901Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.905Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.906Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.916Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.917Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.918Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.919Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.921Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.922Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.923Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.924Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.928Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.929Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.931Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.932Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:49.935Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:49.935Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.480Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.481Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.484Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.485Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.495Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.496Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.497Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.498Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.499Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.500Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.502Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.502Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.504Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.505Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.511Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.512Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.514Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.515Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:56.516Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:56.517Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.082Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.083Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.086Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.087Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.090Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.091Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.094Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.095Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.099Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.100Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.102Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.104Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.111Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.111Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.114Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.114Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.115Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.116Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.117Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.118Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.515Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.516Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.518Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.518Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.527Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.528Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.528Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.529Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.535Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.536Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.537Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.538Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.538Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.540Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.546Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.547Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.551Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.551Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2018-07-18T15:06:57.552Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2018-07-18T15:06:57.552Z"}

@@ -1,0 +1,2 @@
+{"error":{"code":255,"message":"Class GameScore is not empty, contains 2 objects, cannot drop schema."},"level":"error","message":"Error generating response. ParseError {\n  code: 255,\n  message: 'Class GameScore is not empty, contains 2 objects, cannot drop schema.' }","timestamp":"2018-07-05T12:05:49.349Z"}
+{"code":255,"message":"Class GameScore is not empty, contains 2 objects, cannot drop schema.","level":"error","timestamp":"2018-07-05T12:05:49.403Z"}
